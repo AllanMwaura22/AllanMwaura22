@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AllanMwaura22
+- 👋 Hi, I’m Allan.
 - 👀 I’m interested in developing applications that brings change to our society.
 - 🌱 I’m a Fullstack Web applications developer, I specialize in PHP Laravel for Backend. 
 - 🌱 I'm currently learning Vue Js,MERN stack and Docker.
